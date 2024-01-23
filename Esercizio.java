@@ -37,7 +37,7 @@ public class triangoloEquilatero extends Application {
 		
 		bArea.setOnAction(e->area());
 		bPerimetro.setOnAction(e->perimetro());
-		
+	//Ordonez frocio
 				
 		
 	}
